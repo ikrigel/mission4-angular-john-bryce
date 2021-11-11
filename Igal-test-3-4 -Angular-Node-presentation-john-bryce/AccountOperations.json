@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6155695c04eb15243b9a124d"
+  },
+  "accountNumber": 1,
+  "amount": {
+    "$numberDecimal": "1009.66"
+  },
+  "date": "2021-09-30",
+  "interest": {
+    "$numberDecimal": "2.3"
+  },
+  "payments": 10,
+  "actionType": {
+    "$oid": "6155f97604eb15243b9a1275"
+  }
+},{
+  "_id": {
+    "$oid": "61556a8c04eb15243b9a124e"
+  },
+  "accountNumber": 2,
+  "amount": {
+    "$numberDecimal": "1000.55"
+  },
+  "date": "2021-09-30",
+  "actionType": {
+    "$oid": "6155f89a04eb15243b9a1265"
+  }
+},{
+  "_id": {
+    "$oid": "61556aad04eb15243b9a124f"
+  },
+  "accountNumber": 2,
+  "amount": {
+    "$numberDecimal": "1009.66"
+  },
+  "date": "2021-09-30",
+  "actionType": {
+    "$oid": "6155f91704eb15243b9a1266"
+  }
+},{
+  "_id": {
+    "$oid": "61556acf04eb15243b9a1250"
+  },
+  "accountNumber": 2,
+  "amount": {
+    "$numberDecimal": "1009.66"
+  },
+  "date": "2021-09-30",
+  "interest": {
+    "$numberDecimal": "3.7"
+  },
+  "payments": 3,
+  "actionType": {
+    "$oid": "6155f97604eb15243b9a1275"
+  }
+},{
+  "_id": {
+    "$oid": "6155771304eb15243b9a1251"
+  },
+  "accountNumber": 1,
+  "amount": {
+    "$numberDecimal": "1000.55"
+  },
+  "date": "2021-09-30",
+  "actionType": {
+    "$oid": "6155f89a04eb15243b9a1265"
+  }
+},{
+  "_id": {
+    "$oid": "6155778904eb15243b9a1252"
+  },
+  "accountNumber": 1,
+  "amount": {
+    "$numberDecimal": "1009.66"
+  },
+  "date": "2021-09-30",
+  "actionType": {
+    "$oid": "6155f91704eb15243b9a1266"
+  }
+},{
+  "_id": {
+    "$oid": "61560777bcc7e727f4f6537f"
+  },
+  "accountNumber": 2,
+  "amount": 1999.55,
+  "date": "2021-09-31",
+  "actionType": {
+    "$oid": "6155f97604eb15243b9a1275"
+  },
+  "interest": 3.7,
+  "payments": 3
+},{
+  "_id": {
+    "$oid": "615628d4bb122c01b4eface0"
+  },
+  "accountNumber": 4580,
+  "amount": 1999.55,
+  "date": "2021-09-31",
+  "actionType": {
+    "$oid": "6155f97604eb15243b9a1275"
+  },
+  "interest": 3.7,
+  "payments": 3
+}]
